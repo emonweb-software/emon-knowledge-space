@@ -1,15 +1,15 @@
 # 🌟 Knowledge Space
 
+[![Vietnamese](https://img.shields.io/badge/language-Vietnamese-blue.svg)](README.vi.md)
+
 Welcome to the **Knowledge Space** repository! This is a collaborative project aimed at sharing valuable information, insights, and resources with the public. Our goal is to create a comprehensive repository of knowledge that anyone can access and contribute to.
 
 ---
 
 ## 📚 Table of Contents
 
-- [About](#about)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- Programming
+  - [Programming Language](/programming/programming-language.md)
 
 ---
 
